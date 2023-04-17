@@ -5,5 +5,5 @@ https://yarik-f.github.io/Calculator/ - Не допиленный калькул
 
 Также ввод длинных чисел
 
-![image](https://user-images.githubusercontent.com/67107850/232548659-db2f0e24-e3cb-4bfa-94fb-18d13308f343.png)
+![image](https://user-images.githubusercontent.com/67107850/232548737-23430a53-c2a6-4b8e-a6fa-94918c3d74b8.png)
 
